@@ -1,6 +1,10 @@
 ## Hi there 👋
 - I am a Physics graduate currently in my M.Sc. in Modern Information Technologies and Services with specialization in Modern Telecommunication Systems, Internet Technologies, the Internet of Things and Systems Security
-  
+- - - 
+### Info
+- _Operating System:_ CachyOs (Wayland,KDE Desktop)
+- _Software:_ VS Codium, Sublime Text, Obsidian, KVM, Arduino IDE
+- _Other Software Rarely Used:_ Cisco Packet Tracer , GNS3 , RStudio , Postman
 <!--
 **Chr-PanCs/Chr-PanCs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
