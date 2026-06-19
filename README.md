@@ -12,7 +12,7 @@
 - 💻***Operating System:*** CachyOs (Wayland,KDE Desktop)
 - 💿***Software:*** VS Codium, Sublime Text, Obsidian, KVM, Arduino IDE
   - ***Less Frequently Used:*** Cisco Packet Tracer , GNS3 , RStudio , Postman
-- 🔨[***M.Sc. Projects***](https://github.com/Chr-PanCs/MSc_Projects-Presentations/blob/6b9d7c855f7af628c40b6503c51cb6008b6a417f/README.md)
+- 🔨[***M.Sc. Projects***](https://github.com/Chr-PanCs/MSc_Projects-Presentations/blob/e300c30bbb00778ce2e0ea429d3280e175dfe8be/README.md)
 
 - - -
 
